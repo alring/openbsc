@@ -160,6 +160,7 @@ AC_OUTPUT(
     tests/gprs/Makefile
     tests/si/Makefile
     tests/abis/Makefile
+    tests/smpp/Makefile
     doc/Makefile
     doc/examples/Makefile
     Makefile)
